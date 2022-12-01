@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/guess-game/static/css/main.b08cfd26.css",
-    "main.js": "/guess-game/static/js/main.faa71a9b.js",
-    "index.html": "/guess-game/index.html",
-    "main.b08cfd26.css.map": "/guess-game/static/css/main.b08cfd26.css.map",
-    "main.faa71a9b.js.map": "/guess-game/static/js/main.faa71a9b.js.map"
+    "main.css": "/guess-secret-number/static/css/main.b08cfd26.css",
+    "main.js": "/guess-secret-number/static/js/main.faa71a9b.js",
+    "index.html": "/guess-secret-number/index.html",
+    "main.b08cfd26.css.map": "/guess-secret-number/static/css/main.b08cfd26.css.map",
+    "main.faa71a9b.js.map": "/guess-secret-number/static/js/main.faa71a9b.js.map"
   },
   "entrypoints": [
     "static/css/main.b08cfd26.css",
